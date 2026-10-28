@@ -1,4 +1,4 @@
-<img alt="Caspian Chan. I build AI teammates that do real work on the open web. Now building Yuki at xman.ink." src="assets/banner.png" width="100%">
+<img alt="Caspian Chan. I build AI teammates that do real work on the open web. Now building Yuki at xman.ink." src="assets/banner-yuki.png" width="100%">
 
 ### Now building: Yuki
 
