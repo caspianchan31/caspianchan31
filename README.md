@@ -5,9 +5,9 @@
 
 ### Now building: Yuki
 
-AI teammates that run a brand's social accounts. Each teammate works in its own cloud desktop, with its own browser and logins. Every action it takes comes back with a link you can check, and your passwords, 2FA codes and passkeys stay with you.
+AI teammates, each with its own computer. Every teammate has a name, a job and its own cloud desktop. You hand out work in a chat or a group, the way you would with coworkers; they pick it up, finish it on their own and bring the results back to the conversation. They only come to you when something needs your decision.
 
-一队替品牌经营海外社媒的 AI 成员。每个成员一台云电脑，用自己的浏览器和登录状态；做的每件事都附链接，随时可查；密码和验证始终在你手里。
+每个都有自己电脑的 AI 成员。每个成员有名字、有分工、有自己的一台云电脑。你像跟同事一样在聊天或群里派活；它们自己接、自己做完，把结果带回对话里，只有要你拍板的事才来找你。
 
 **Try it** · [xman.ink](https://xman.ink)  
 **Repo** · [caspianchan31/yuki](https://github.com/caspianchan31/yuki)  
