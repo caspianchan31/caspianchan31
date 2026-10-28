@@ -10,6 +10,7 @@ AI teammates that run a brand's social accounts. Each teammate works in its own 
 一队替品牌经营海外社媒的 AI 成员。每个成员一台云电脑，用自己的浏览器和登录状态；做的每件事都附链接，随时可查；密码和验证始终在你手里。
 
 **Try it** · [xman.ink](https://xman.ink)  
+**Repo** · [caspianchan31/yuki](https://github.com/caspianchan31/yuki)  
 **Open-source roots** · [openmuse‑standalone](https://github.com/caspianchan31/openmuse-standalone): a self-hosted personal agent whose conversations live in your own Postgres.
 
 ### Mac apps
