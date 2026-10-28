@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Caspian Chan. I build AI teammates that do real work on the open web. Now building Yuki at xman.ink." src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Caspian Chan. I build AI teammates that do real work on the open web. Now building Yuki at xman.ink." src="assets/banner.png" width="100%">
 
 ### Now building: Yuki
 
