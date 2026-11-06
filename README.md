@@ -1,16 +1,18 @@
 <p align="center">
-  <a href="https://yukilab.si"><img alt="Caspian Chan. I build AI teammates that live in your chat. Now building Yuki at yukilab.si." src="assets/banner-yuki-chat.webp" width="100%"></a>
+  <a href="https://yukilab.si"><img alt="Caspian Chan. I build AI that works with you, or keeps you company. Now building Yuki at yukilab.si." src="assets/banner-yuki-chat.webp" width="100%"></a>
 </p>
 
 <p align="center">
-  <strong><a href="https://yukilab.si">Try Yuki</a></strong> &nbsp;·&nbsp; <a href="https://github.com/caspianchan31/yuki">Source code</a> &nbsp;·&nbsp; <a href="https://github.com/caspianchan31/yuki/blob/main/README.zh-CN.md">中文介绍</a>
+  <strong><a href="https://yukilab.si">Try Yuki</a></strong> &nbsp;·&nbsp; <a href="https://github.com/caspianchan31/yuki">Source code</a> &nbsp;·&nbsp; <a href="https://github.com/caspianchan31/yuki/blob/main/README.zh-CN.md">中文介绍</a> &nbsp;·&nbsp; <a href="https://github.com/caspianchan31/yuki/blob/main/README.ja.md">日本語</a>
 </p>
 
 ### Now building: Yuki
 
-**AI teammates in your chat.** Open it and Yuki is already there: tell it what you need in one sentence. Add teammates when you want help and put them in a group; they hand work to each other where you can see it, and come to you only when something needs your decision. The core is source-available, so you can run it on your own machine.
+**Your AI, in your chat. It works with you, or keeps you company.** Open it and Yuki is already there: tell it who to be in one sentence, then raise it your way. Add more when you want help and put them in a group; they hand work to each other where you can see it, and come to you only when something needs your decision. The core is source-available, so you can run it on your own machine.
 
-**聊天里的 AI 同事。** 打开就有 Yuki，一句话告诉它做什么；需要帮手就加成员、拉进群，它们在对话里互相交接，只有要你拍板的事才来找你。核心源码公开，可以跑在你自己的电脑上。
+**住在聊天里的 AI，能帮你干活，也能陪着你。** 打开就有 Yuki，一句话告诉它做谁，越养越懂你；需要帮手就再加几个、拉进群，它们在对话里互相交接，只有要你拍板的事才来找你。核心源码公开，可以跑在你自己的电脑上。
+
+**チャットに住む、あなたのAI。** 仕事を手伝い、そばにもいてくれる。ひとことで性格を決めて、「うちの子」に育てよう。
 
 ### Mac apps
 
