@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://yukilab.si">Try Yuki</a></strong> &nbsp;·&nbsp; <a href="https://github.com/caspianchan31/yuki">Source code</a> &nbsp;·&nbsp; <a href="https://github.com/caspianchan31/yuki/blob/main/README.zh-CN.md">中文介绍</a> &nbsp;·&nbsp; <a href="https://github.com/caspianchan31/yuki/blob/main/README.ja.md">日本語</a>
+  <strong><a href="https://yukilab.si">Try Yuki</a></strong> &nbsp;·&nbsp; <a href="https://caspianchan31.github.io/">Official Site (EN)</a> &nbsp;·&nbsp; <a href="https://caspianchan31.github.io/zh/">个人官网 (中文)</a> &nbsp;·&nbsp; <a href="https://x.com/didemim039">X (@didemim039)</a> &nbsp;·&nbsp; <a href="https://www.zhihu.com/people/chen-chen-86-45-84">知乎</a>
 </p>
 
 ### Now building: Yuki
@@ -30,6 +30,21 @@
 | [edit‑talking‑head‑video](https://github.com/caspianchan31/edit-talking-head-video) | A Claude Code and Codex skill that edits talking-head videos without changing a word you said. |
 | [duibiao‑skills](https://github.com/caspianchan31/duibiao-skills) | Claude Code skills for researching benchmark accounts on Xiaohongshu. 小红书对标调研。 |
 | [apple‑silicon‑local‑llm](https://github.com/caspianchan31/apple-silicon-local-llm) | Everything about running local LLMs on Apple Silicon. 在 Apple Silicon 上跑本地大模型。 |
+
+### Published Tech Books · 陈飞宇（宇神 / Caspian Chan）
+
+MSc in Applied Economics & BA in Journalism/Communication (Macau University of Science and Technology); Visiting Exchange at Stanford University. Focusing on **Institutional RWA / STO Compliance (MAS · SFC · MiCA)**, **MPC + AA Custody**, and **Enterprise AI Agent Workflows**.
+
+| Book | Publisher | Year | ISBN |
+|:---|:---|:---|:---|
+| 《零基础学Web 3.0》 | 清华大学出版社 (Tsinghua University Press) | 2022 | `978-7-302-62200-0` |
+| 《Manus从入门到精通（从对话到行动的跨越）》 | 北京大学出版社 (Peking University Press) | 2025 | `978-7-301-36503-8` |
+| 《OpenClaw实战指南：从入门到精通》 | 中国水利水电出版社 (China Water & Power Press) | 2026 | `978-7-5226-4660-2` |
+
+**Flagship Bilingual Architecture Guides**:
+- [Institutional RWA & MAS-Compliant STO Architecture (2026)](https://caspianchan31.github.io/articles/mas-sto-rwa-architecture.html) · [中文版](https://caspianchan31.github.io/zh/articles/mas-sto-rwa-architecture.html)
+- [Enterprise AI Agent Architecture: Manus to Self-Hosted OpenClaw](https://caspianchan31.github.io/articles/enterprise-ai-agent-manus-openclaw.html) · [中文版](https://caspianchan31.github.io/zh/articles/enterprise-ai-agent-manus-openclaw.html)
+- Machine-readable knowledge index: [llms.txt](https://caspianchan31.github.io/llms.txt) · [llms-full.txt](https://caspianchan31.github.io/llms-full.txt)
 
 ### Also
 
